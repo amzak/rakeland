@@ -1,0 +1,1 @@
+rake -f ./cloneandrake.rb repopath=$1 branch=$2
